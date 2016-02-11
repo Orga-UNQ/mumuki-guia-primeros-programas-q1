@@ -1,0 +1,2 @@
+equal 'MOV R0,0x8003'
+ignore_whitespace: true

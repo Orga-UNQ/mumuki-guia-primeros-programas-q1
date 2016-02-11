@@ -1,0 +1,1 @@
+> Escribí un programa que inicialice el registro R1 con una cadena que represente el valor -15 en SM(16)

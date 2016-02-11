@@ -1,0 +1,1 @@
+¿Confundid@? El sistema que debés usar es SM(16) y luego _compactarlo_ en hexadecimal de 4 dígitos.
