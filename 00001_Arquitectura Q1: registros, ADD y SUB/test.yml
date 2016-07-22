@@ -1,2 +1,2 @@
-equal: '-p.-q+p.-q'   
+equal: 'R0=1'   
 ignore_whitespace: true

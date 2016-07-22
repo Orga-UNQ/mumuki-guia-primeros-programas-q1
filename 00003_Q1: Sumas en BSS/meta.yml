@@ -4,3 +4,5 @@ layout: editor_right
 type: problem
 extra_visible: false
 language: c
+teacher_info: 
+manual_evaluation: false
