@@ -1,2 +1,2 @@
-equal 'MOV R1,0x800F'
+equal: 'MOV R1,0x800F'
 ignore_whitespace: true
