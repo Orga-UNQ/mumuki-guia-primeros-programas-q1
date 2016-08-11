@@ -1,1 +1,0 @@
-Acá podés probar cualquier programa QSim, se ejecutará con el set de instrucciones Q6.
