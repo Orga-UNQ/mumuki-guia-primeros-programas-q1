@@ -1,4 +1,4 @@
-En esta guía se aprenderá a construir programas en una computadora que respeta la arquitectura Q1. Se busca ejercitar:
-* Cómo se escriben los programas en un lenguaje de bajo nuvel (Q1)
-* Como funcionan la ejecución de los programas
-* 
+En esta guía se presentará la arquitectura de una **computadora conceptual Q1** basada en el enfoque de Von Neumann, buscando ejercitar:
+
+* Escribir programas en el lenguaje de Q1 que resuelten problemas de baja complejidad
+* Cómo funciona la ejecución de dichos programas.
