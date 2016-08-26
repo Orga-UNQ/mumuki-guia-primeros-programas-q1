@@ -1,2 +1,5 @@
-equal: 'MOV R1,0x800F'
-ignore_whitespace: true
+examples:
+- name: 'El resultado es correcto'
+  postconditions:
+    equal:
+      R1: '800F'
