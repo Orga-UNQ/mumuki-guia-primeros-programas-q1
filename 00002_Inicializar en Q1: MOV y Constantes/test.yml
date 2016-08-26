@@ -1,2 +1,5 @@
-equal 'MOV R0,0x8003'
-ignore_whitespace: true
+examples:
+- name: 'El resultado es correcto'
+  postconditions:
+    equal:
+      R0: '0003'
