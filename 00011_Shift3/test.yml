@@ -1,0 +1,5 @@
+examples:
+- name: 'El resultado es correcto'
+  postconditions:
+    equal:
+      R0: '4569'
