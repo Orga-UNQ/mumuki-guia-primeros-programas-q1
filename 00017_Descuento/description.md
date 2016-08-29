@@ -1,0 +1,2 @@
+Suponiendo que en el registro R4 tiene almacenado el **costo** en pesos de un producto, y el registro R5 contiene
+el **porcentaje descuento a aplicar**, calcule el valor final de venta a ser almacenado en R6. No modifique R4 ni R5.
