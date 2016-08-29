@@ -1,0 +1,1 @@
+Escribir un programa que calcule el promedio entre los registros R2 y R3, dejando el resultado en R5 y sin modificar esos registros.
