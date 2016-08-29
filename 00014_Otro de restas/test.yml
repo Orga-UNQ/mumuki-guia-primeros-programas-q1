@@ -1,0 +1,9 @@
+examples:
+- name: 'El resultado es correcto'
+  postconditions:
+    equal:
+      R5: '0002'
+- name: 'No se modifican R6'
+  postconditions:
+    equal:
+      R6: '0009'
