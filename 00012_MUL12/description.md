@@ -1,0 +1,1 @@
+Escribi un programa que multiplique por 12 el valor contenido en el regstro R6

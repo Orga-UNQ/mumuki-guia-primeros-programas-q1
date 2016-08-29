@@ -1,0 +1,6 @@
+examples:
+- name: 'El resultado es correcto'
+  postconditions:
+    equal:
+      R6: '000C'
+      R7: '0000'
