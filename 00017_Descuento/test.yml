@@ -2,7 +2,7 @@ examples:
 - name: 'El resultado es correcto'
   postconditions:
     equal:
-      R6: '003C'
+      R6: '0040'
 - name: 'No se modifican los registros'
   postconditions:
     equal:
