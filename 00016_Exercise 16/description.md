@@ -1,0 +1,1 @@
+Escribir un programa que a R4 le sume los valores de R1, R2 y R3 ; y le reste los valores de R5, R6 y R7
