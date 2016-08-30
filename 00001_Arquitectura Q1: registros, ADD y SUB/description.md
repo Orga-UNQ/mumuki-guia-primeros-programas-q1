@@ -10,7 +10,7 @@ Por ejemplo, un ADD se escribe ```ADD R0, R1 ``` y luego de sumar los contenidos
 
 Análogamente, si nuestro programa es ```SUB R0, R1``` y los valores de los registros R0 y R1 son 5 y 4 respectivamente, ¿Que variable se modifica y cual es su nuevo valor? 
 
-Exacto! El **efecto de la ejecución** de esa instrucción es ```R0=0x0004```
+Exacto! El **efecto de la ejecución** de esa instrucción es ```R0=0x0001```
 
 ## Ahora trabajás vos
 
