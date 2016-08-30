@@ -1,9 +1,9 @@
 examples:
-- name: 'El resultado es correcto'
+- name: 'El resultado no es correcto'
   postconditions:
     equal:
       R5: '0008'
-- name: 'No se modifican R6'
+- name: 'No se modifican los registros'
   postconditions:
     equal:
       R2: '000A'
