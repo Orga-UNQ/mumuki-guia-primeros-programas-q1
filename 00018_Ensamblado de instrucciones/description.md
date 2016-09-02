@@ -29,7 +29,13 @@ Aún falta escribir lo anterior en binario, para que pueda almacenarse en memori
 
 ## Especificaciones de Q1
 
-### Instrucciones de dos operandos
+### Formato de instrucciones de dos operandos
+
+| codop | Modo Destino | Modo Origen | Operando Destino | Operando Origen |
+|:-----:|:------------:|:-----------:|:----------------:|:---------------:|
+|   4b  | 6 bits | 6 bits | 16 bits | 16 bits |
+
+### Codigos de operaciones
 
 | codop | operacion |
 |:-----:|:---------:|
@@ -51,4 +57,4 @@ Aún falta escribir lo anterior en binario, para que pueda almacenarse en memori
 
 ### Poniendo en práctica
 
-Ensamblar la instruccion: ```ADD R0,0xFAFF```
+Ensamblar (dar el codigo máquina de) la instruccion: ```ADD R0,R1```
