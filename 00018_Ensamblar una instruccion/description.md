@@ -1,1 +1,0 @@
-Ensamblar la instruccion: ```ADD R0,0xFAFF```
