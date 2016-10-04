@@ -1,5 +1,8 @@
 examples:
 - name: 'El resultado es correcto'
+  preconditions: 
+    records:
+      R0: '0004'
   postconditions:
     equal:
       R0: '0008'
