@@ -1,6 +1,17 @@
 examples:
 - name: 'El resultado es correcto'
+  preconditions:
+    records:
+      R6: '0001'
   postconditions:
     equal:
       R6: '000C'
+- name: 'Se utiliza un MUL'
+  preconditions:
+    records:
+      R7: 'AAAA'
+  postconditions:
+    equal:
       R7: '0000'
+      
+            
