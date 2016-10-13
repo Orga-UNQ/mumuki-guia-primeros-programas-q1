@@ -1,10 +1,19 @@
 examples:
 - name: 'El resultado es correcto'
+  preconditions:
+    records:
+      R4: '0050'
+      R5: '0014'
   postconditions:
     equal:
       R6: '0040'
 - name: 'No se modifican los registros'
+  preconditions:
+    records:
+      R4: '0064'
+      R5: '000A'
   postconditions:
     equal:
-      R4: '0050'
-      R5: '0014'
+      R4: '0064'
+      R5: '000A'
+      
