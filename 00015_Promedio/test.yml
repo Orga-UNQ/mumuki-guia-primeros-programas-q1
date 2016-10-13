@@ -11,9 +11,9 @@ examples:
 - name: 'No se modifican los registros'
   preconditions:
     records:
-      R2: '000A'
-      R3: '0006'
+      R2: '0014'
+      R3: '0078'
   postconditions:
     equal:
-      R2: '000A'
-      R3: '0006'
+      R2: '0014'
+      R3: '0078'
