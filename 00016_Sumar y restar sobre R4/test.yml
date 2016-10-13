@@ -12,3 +12,18 @@ examples:
   postconditions:
     equal:
       R4: '0001'
+      
+      
+- name: 'El resultado es correcto'
+  preconditions:
+    records:
+      R1: '0002'
+      R2: '0003'
+      R3: '0004'
+      R4: '000A'
+      R5: '0005'
+      R6: '0006'
+      R7: '0007'
+  postconditions:
+    equal:
+      R4: '0001'
